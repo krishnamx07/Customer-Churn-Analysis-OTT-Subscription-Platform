@@ -44,7 +44,7 @@ Source: `customer_churn.db` (SQLite), 3 relational tables joined on `customerid`
 - **Revenue at risk:** Rs 73.94/mo (18.7% of total MRR), Rs 2,047 in CLTV
 - Cancellations cluster around September : worth cross-checking against pricing/service changes
 
-Full write-up with charts: [`/churn_analysis_report.pdf`](./churn_analysis_report.pdf)
+Full write-up with charts: [`churn_analysis_report.pdf`](churn_analysis_report.pdf)
 
 ## Repository Structure
 
